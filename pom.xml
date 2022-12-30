@@ -4,7 +4,7 @@
 
   <groupId>com.test</groupId>
   <artifactId>HelloWorldMaven2</artifactId>
-  <version>3.2.15-RELEASE</version>
+  <version>3.2.16-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>HelloWorldMaven2</name>
