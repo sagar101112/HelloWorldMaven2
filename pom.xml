@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.test</groupId>
-  <artifactId>HelloWorldMaven</artifactId>
-  <version>3.2.8-SNAPSHOT</version>
+  <artifactId>HelloWorldMaven2</artifactId>
+  <version>3.2.10-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>HelloWorldMaven</name>
+  <name>HelloWorldMaven2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
